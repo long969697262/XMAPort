@@ -374,7 +374,7 @@ def read_packing_config():
         "format": "erofs",
         "compression": "lz4hc",
         "compression_level": "9",
-        "device_size": "6979321856",
+        "device_size": "85899345920",
         "metadata_size": "65536",
         "sparse": "true",
         "pack_super": "false",
